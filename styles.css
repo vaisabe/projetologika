@@ -16,8 +16,8 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  border-bottom: solid 1px hwb(0 2% 8%);
+  background-color: rgb(238, 255, 0);
 }
 
 nav a {
@@ -32,8 +32,8 @@ nav a {
 }
 
 nav a[aria-current='page'] {
-  color: #000;
-  background-color: #d4d4d4;
+  color: rgb(245, 0, 0);
+  background-color: rgb(238, 255, 0);
 }
 
 main {
@@ -44,5 +44,5 @@ h1 {
   color: #008B8B;
   font-weight: bold;
   font-size: 3rem;
-  
+
 }
