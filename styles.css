@@ -28,7 +28,9 @@ nav a {
   border: solid 1px #aaa;
   text-align: center;
   text-decoration: none;
-  color: #555;
+  color: rgb(250, 15, 15);
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
 }
 
 nav a[aria-current='page'] {
