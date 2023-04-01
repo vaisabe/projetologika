@@ -17,7 +17,7 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: double 35px rgb(255, 0, 200);
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(100, 45, 189);
 }
 
 nav a {
@@ -43,7 +43,7 @@ main {
 }
 
 h1 {
-  color: #16004b;
+  color: #5829c7;
   font-weight:lighter;
   font-size: 3rem;
 
