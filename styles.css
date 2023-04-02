@@ -25,7 +25,7 @@ nav a {
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: double 10x #f3e088;
+  border: solid 10x #f3e088;
   text-align: center;
   text-decoration: none;
   color: #000000;
