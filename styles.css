@@ -17,7 +17,7 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: solid 10px #f3e088;
-  background-color: #ed46df;
+  background-color: #000000;
 }
 
 nav a {
@@ -34,7 +34,7 @@ nav a {
 }
 
 nav a[aria-current='page'] {
-  color: #f3e088;
+  color: #ed46df;
   background-color: #000000;
 }
 
