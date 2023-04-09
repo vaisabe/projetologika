@@ -43,6 +43,11 @@ main {
 }
 
 h1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+
   color: rgb(47, 42, 54);
   font-weight:lighter;
   font-size: 3rem;
