@@ -25,7 +25,7 @@ nav a {
   min-width: 9rem;
   padding: 0.5rem;
   border-radius: 0.2rem;
-  border: double 10x #ce0000;
+  border: double 10x hsl(0, 100%, 40%);
   text-align: center;
   text-decoration: none;
   color: rgb(255, 255, 255);
@@ -55,7 +55,7 @@ h2 {
 
 }
 h2 {
-  color: rgb(255, 251, 0);
+  color: #000000;
   font-weight:bolder;
   font-size: 2.5rem;
 
