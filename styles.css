@@ -3,6 +3,7 @@
 }
 
 body {
+  /* background-image: url('img/4f89cb5b-ddf5-44cf-9a9b-4cb7f1abb5f3.jpg'); */
   margin: 0;
   font-family: system-ui, sans-serif;
   color: rgb(0, 0, 0);
@@ -11,20 +12,20 @@ body {
 
 nav {
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding: 0,5rem;
-  gap: 5.0rem;
-  border-bottom: solid 10px #ffffff;
+  padding: 0.5rem;
+  gap: 0.5rem;
+  border-bottom: solid 10px cc;
   background-color: #000000;
 }
 
 nav a {
   display: inline-block;
   min-width: 9rem;
-  padding: 0.9rem;
-  border-radius: 10.0rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
   border: double 10x hsl(0, 100%, 40%);
   text-align: center;
   text-decoration: none;
@@ -67,4 +68,8 @@ color: rgb(0, 0, 0);
   font-weight:bolder;
   font-size: 2.5rem;
 
+}
+
+.classe1 {
+  background: rgb(255, 0, 0);
 }
