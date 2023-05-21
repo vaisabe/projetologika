@@ -17,26 +17,30 @@ nav {
   justify-content: center;
   padding: 0.5rem;
   gap: 0.5rem;
-  border-bottom: solid 10px cc;
-  background-color: #000000;
+  
+  
+
+  /* border: 20px double #ff50c8;
+background: #f3e088; */
 }
 
 nav a {
   display: inline-block;
   min-width: 9rem;
-  padding: 0.5rem;
+  padding: 0.2rem;
   border-radius: 0.2rem;
-  border: double 10x hsl(0, 100%, 40%);
+  border-style: solid 10x hsl(0, 100%, 40%);
   text-align: center;
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-family: "Times New Roman", Times, serif;
   font-style: oblique;
-  font-size: 40px;
+  font-size: 20px;
+  border-bottom: 20px double #000000;
 }
 
 nav a[aria-current='page'] {
-  color: #ed46df;
+  color: #000000;
   background-color: #f3e088;
 }
 
@@ -71,5 +75,21 @@ color: rgb(0, 0, 0);
 }
 
 .classe1 {
-  background: rgb(255, 0, 0);
+  background: rgb(0, 0, 0);
+  font-family: "Comic Sans MS", Comic Sans, cursive;
+  color:#f3e088
+
+  
+
+}
+
+.classe2 {
+  background: rgb(0, 0, 0);
+  font-family: "New Century Schoolbook", TeX Gyre Schola, serif;
+  color:#f3e088
+}
+
+.classe3 {
+  background: rgb(0, 0, 0);
+  color:#f3e088
 }
